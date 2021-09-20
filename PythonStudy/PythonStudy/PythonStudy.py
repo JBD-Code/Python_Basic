@@ -10,6 +10,7 @@ MODIFY DATE         :
 #print function
 print("HELLO WORLD")
 print([1, 2 ,3])
+print()
 
 #input function
 #name = input("What is your name?")
@@ -74,4 +75,5 @@ my_dict[4] = 'e'
 for key in my_dict:
 	print("key :" + str(key))
 print()
+
 
